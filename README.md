@@ -67,7 +67,7 @@ Usage
 2) Get Google keyword position
 
 ```php
-	$fetcher = new KeywordRankFetcher(Config::get('keywordrank'));
+    $fetcher = new KeywordRankFetcher(Config::get('keywordrank'));
     $position = $fetcher->getPosition('www.lnidigital.com','Ashburn Digital Marketing',true);
 ```
 
