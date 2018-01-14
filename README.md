@@ -16,7 +16,10 @@ Add the following line to the `require` section of your Laravel webapp's `compos
 
 Run `composer update` to install the package.
 
+Or simpy run `composer require seongbae/keywordrank`
+
 This package uses Laravel 5.5 Package Auto-Discovery.
+
 For previous versions of Laravel, you need to update `config/app.php` by adding an entry for the service provider:
 
 ```php
