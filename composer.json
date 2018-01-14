@@ -23,7 +23,7 @@
             "seongbae\\KeywordRank\\": "src/"
         },
         "files": [
-            "src/Libs/Google/simple_html_dom.php",
+            "src/Libs/simple_html_dom.php",
             "src/Helpers/KeywordRankHelper.php"
         ]
     },
